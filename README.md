@@ -76,5 +76,5 @@ This project demonstrates practical skills in data visualization, customer behav
 The dashboard provides interactive insights into customer conversion performance and business analytics through effective visualizations and reporting techniques.
 
 👩‍💻 Author
-Devisri Chowdary Koya
+Shaik Mahiya Banu
 Data Science & Analytics Intern
